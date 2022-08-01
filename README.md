@@ -2,6 +2,6 @@
 
 #### Lecionado pelo professor Gustavo Guanabara o curso é hospedado no site do Curso em vídeo, e disponível também vídeos no youtube)
 
-## Anotações importantes
+### Lista de exercícios resolvidos
 
-- [Resoluções do Exercicios Mundo 1](Exercises_mundo1.md)
+##### Conhecendo a linguagem 
