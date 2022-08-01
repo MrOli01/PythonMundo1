@@ -32,3 +32,33 @@ print(A soma entre {} e {} é igual a {}'.format(n1, n2, s))
 
 ````
 
+## 4. Ex04 -  Dissecando uma variável
+
+### >> Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+````python
+
+entrada = input("Digite algo: \n")
+print("Tipo primitivo: {}.".format(type(entrada)))
+
+print("É numérico? {}".format(entrada.isnumeric()))
+print("É alfanumérico? {}.".format(entrada.isalpha()))
+print("É um decimal? {}.".format(entrada.isdecimal()))
+print("Está em caixa baixa? {}.".format(entrada.islower()))
+print("É apenas espaço em branco? {}.".format(entrada.isspace()))
+print("Está em caixa alta? {}.".format(entrada.isupper()))
+
+````
+
+## 5. Ex05 -  Antecessor e sucessor
+
+### >> Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor:
+
+````python
+
+n = int(input("Digite um número: \n"))
+print("O antecessor do número {} é: {}.".format(n, n - 1))
+print("O sucessor do número {} é: {}.".format(n, n + 1))
+
+````
+
