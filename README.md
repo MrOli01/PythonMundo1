@@ -1,5 +1,5 @@
-# PythonMundo1
+# Python Gustavo Guanabara
 
 Solutions to Gustavo Guanabara's python exercises
 
-- [Resoluções do Exercicios](Exercises.md)
+- [Resoluções do Exercicios Mundo 1](Exercises.md)
