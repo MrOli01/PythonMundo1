@@ -5,3 +5,6 @@
 ### Lista de exercícios resolvidos
 
 ##### Conhecendo a linguagem 
+
+- [Exercício Python #01](Deixando tudo)
+- Exercício Python #02
