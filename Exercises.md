@@ -1,8 +1,8 @@
-## Ex01 
+## 1. Ex01 
 
-### Crie um programa que escreva "Olá Mundo!"
+### >> Crie um programa que escreva "Olá Mundo!"
 
-''''python
+````python
 
 print("Hello Mundo!")
 
