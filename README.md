@@ -6,7 +6,7 @@
 
 Mundo 1 
 
-- Exercício Python #01
+- [Exercício Python #01](exercicio01.md)
 - Exercício Python #02
 
 #### Primeiros passos
